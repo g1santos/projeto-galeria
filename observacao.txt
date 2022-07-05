@@ -1,0 +1,2 @@
+Ao executar o npm start, enquanto estiver em modo de desenvolvimento, não irá criar a pasta com os arquivos, eles vão está na memória
+Ao rodar o build ele sobescreve a pasta e cria os arquivos do projeto atuais.. 
